@@ -14,6 +14,5 @@ We will fund a challenge of design for this:
 ![graffiti wall art bot](https://github.com/SwedenDigBot/Coltimech/assets/161290496/568c0a17-f8f2-417e-9849-6849c9b739b9)
 ![eurofork miniload D](https://github.com/SwedenDigBot/Coltimech/assets/161290496/469d52dd-23be-449c-83ff-4ba382e5da61)
 ![car graffiti jobby2](https://github.com/SwedenDigBot/Coltimech/assets/161290496/e24db525-9d2f-4cbd-a5e3-912999ae3da5)
-The robot uses ultrasound-radio beacons which is 25mm precision:
-ultrasound
+Photogrammetry is calibrated with ultrasound-radio beacons of 25mm precision
 ![ full ultrasound beacon with object IDs layers 3a ](https://github.com/SwedenDigBot/Coltimech/assets/161290496/775a3aed-3cd4-4d37-83f7-91affefa9708)
