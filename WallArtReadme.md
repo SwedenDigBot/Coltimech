@@ -32,4 +32,6 @@ A CMOS to set markers on the wall for drawing pictures of 200cm and 1000cm in mu
 
 This is a cement printer that uses a related design https://apis-cor.com/
 
+Technical info for the arm is available in chapter 4 of ![this book](https://github.com/SwedenDigBot/Coltimech/blob/main/Roboto%20Coltimech%20garden%20reprap%20v08b.pdf) called "A New Robot Arm"
+
 
