@@ -2,7 +2,7 @@
 
 Techno-Economic Study of a Multitool Cultivator Mechanoid: 
 
-The PDF book is after the images. 
+The PDF book follows the images. 
 ![big small robot size comparison final ](https://github.com/SwedenDigBot/Coltimech/assets/161290496/7fd3397e-cf0c-4494-a3a0-be19a50667ca)
 tools:
 ![many tools view 3](https://github.com/SwedenDigBot/Coltimech/assets/161290496/c0d80b87-10c0-474b-a841-4126efda28e2)
