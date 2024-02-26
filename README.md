@@ -7,7 +7,7 @@ The PDF book is after the images.
 tools:
 ![many tools view 3](https://github.com/SwedenDigBot/Coltimech/assets/161290496/c0d80b87-10c0-474b-a841-4126efda28e2)
 We will fund a challenge of design for this:
-![graffiti wall art bot](https://github.com/SwedenDigBot/Coltimech/assets/161290496/568c0a17-f8f2-417e-9849-6849c9b739b9)
+![graffiti wall art bot](https://github.com/SwedenDigBot/Coltimech/assets/161290496/e200d383-6da8-4e3b-93e3-b7480706be75)
 ![eurofork miniload D](https://github.com/SwedenDigBot/Coltimech/assets/161290496/469d52dd-23be-449c-83ff-4ba382e5da61)
 ![car graffiti jobby2](https://github.com/SwedenDigBot/Coltimech/assets/161290496/e24db525-9d2f-4cbd-a5e3-912999ae3da5)
 Photogrammetry is calibrated with ultrasound-radio beacons of 25mm precision
